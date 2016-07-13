@@ -1,1 +1,2 @@
 this is to test the -a flag
+This is the second file 
